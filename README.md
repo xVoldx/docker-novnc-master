@@ -62,6 +62,7 @@ services:
       - DISPLAY_WIDTH=1600
       - DISPLAY_HEIGHT=968
       - RUN_XTERM=no
+      #PORT 8080:8080 --> 80:80 FOR HEROKU
     ports:
       - "8080:8080"
     networks:
