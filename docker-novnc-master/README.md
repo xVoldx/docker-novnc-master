@@ -14,6 +14,7 @@ This image is intended to be used for displaying X11 applications from other con
 * [socat](http://www.dest-unreach.org/socat/) - for use with other containers
 * [xterm](http://invisible-island.net/xterm/) - to demo that it works
 * [supervisord](http://supervisord.org) - to keep it all running
+* [Firefox-ESR](https://packages.debian.org/sid/firefox-esr-l10n-en-gb) - firefox-esr-l10n-en-gb Browser 
 
 ## Usage
 
