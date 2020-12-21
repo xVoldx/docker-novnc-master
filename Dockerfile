@@ -12,7 +12,6 @@ RUN set -ex; \
       socat \
       supervisor \
       x11vnc \
-      firefox-esr-l10n-en-gb \
       xterm \
       xvfb
 
