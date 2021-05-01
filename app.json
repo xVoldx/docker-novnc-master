@@ -1,4 +1,14 @@
 {
-	"name": "noVNC Debian",
-	"repository": "https://github.com/0x77dev/docker-novnc"
+  "name": "Heroku Docker Novnc",
+  "description": "A novnc using Docker.",
+  "keywords": [
+    "docker",
+    "novnc"
+  ],
+  "builpacks": [
+    { "url": "https://github.com/dockhero/heroku-buildpack-docker-compose.git" }
+  ],
+  "repository": "https://github.com/xVoldx/docker-novnc-master",
+  "stack": "container"
+  
 }
